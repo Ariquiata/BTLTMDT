@@ -1,0 +1,28 @@
+.section_title h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.section_title {
+    background: url("../image/sep-1.png") no-repeat scroll center bottom;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+}
+
+.thumbnail:hover{
+		opacity:1.00;
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+		transition: box-shadow 0.5s;
+		
+		}
+                .thumbnail a{
+                    color: #ffffff;
+                    text-decoration: none;
+                }
+                .thumbnail a:hover{
+                    color: #ffffff;
+                    text-decoration: none;
+                }
